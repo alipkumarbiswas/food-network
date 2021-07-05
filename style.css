@@ -14,3 +14,14 @@ section{
     width: 50%;
     padding: 5%;
 }
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-size: 700;
+    padding: 20px 40px;
+    border-radius: 40px;
+}
